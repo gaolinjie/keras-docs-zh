@@ -22,7 +22,7 @@
 
 Keras也大受深度学习研究者的喜爱。在上传到学术论文网站[arXiv.org](https://arxiv.org/archive/cs)的论文中被提及的次数位居第二：
 
-<img src='/img/arxiv-mentions.png' style='width:500px; display: block; margin: 0 auto;'/>
+<img src='https://keras.io/img/arxiv-mentions.png' style='width:500px; display: block; margin: 0 auto;'/>
 
 Keras还被大型科研机构的研究者所采用，特别是CERN和NASA。
 
@@ -72,7 +72,7 @@ Keras还被大型科研机构的研究者所采用，特别是CERN和NASA。
 
 Keras的开发主要由谷歌支持，Keras API以“tf.keras"的形式打包在TensorFlow中。微软维护着Keras的CNTK后端。亚马逊AWS正在开发MXNet支持。其他提供支持的公司包括NVIDIA、优步、苹果（通过CoreML）。
 
-<img src='/img/google-logo.png' style='width:200px; margin-right:15px;'/>
-<img src='/img/microsoft-logo.png' style='width:200px; margin-right:15px;'/>
-<img src='/img/nvidia-logo.png' style='width:200px; margin-right:15px;'/>
-<img src='/img/aws-logo.png' style='width:110px; margin-right:15px;'/>
+<img src='https://keras.io/img/google-logo.png' style='width:200px; margin-right:15px;'/>
+<img src='https://keras.io/img/microsoft-logo.png' style='width:200px; margin-right:15px;'/>
+<img src='https://keras.io/img/nvidia-logo.png' style='width:200px; margin-right:15px;'/>
+<img src='https://keras.io/img/aws-logo.png' style='width:110px; margin-right:15px;'/>

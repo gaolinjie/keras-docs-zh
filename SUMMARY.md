@@ -10,7 +10,7 @@
 * 模型
   * [关于Keras模型](sources/models/about-keras-models.md)
   * [顺序(Sequential)模型API](sources/models/sequential.md)
-  * [函数式API](sources/model/models.md)
+  * [函数式API](sources/models/model.md)
 * Layers
    * [关于Keras层](sources/layers/about-keras-layers.md)
    * [常用层Core](sources/layers/core.md)

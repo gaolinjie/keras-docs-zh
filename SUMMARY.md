@@ -8,9 +8,9 @@
   * [开始使用 Keras 函数式 API](sources/getting-started/functional-api-guide.md)
   * [FAQ](sources/getting-started/faq.md)
 * 模型
-  * [关于Keras模型](sources/model/about-keras-models.md)
-  * [顺序(Sequential)模型API](sources/model/sequential.md)
-  * [函数式API](sources/model/model.md)
+  * [关于Keras模型](sources/models/about-keras-models.md)
+  * [顺序(Sequential)模型API](sources/models/sequential.md)
+  * [函数式API](sources/model/models.md)
 * Layers
    * [关于Keras层](sources/layers/about-keras-layers.md)
    * [常用层Core](sources/layers/core.md)
